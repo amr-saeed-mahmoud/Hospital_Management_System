@@ -20,9 +20,9 @@ A secure and scalable RESTful API built with **ASP.NET Core 8** and **Entity Fra
   - Create, update, and cancel patient appointments  
   - Retrieve appointments by patient or doctor  
   - Track appointment status (confirmed, pending, canceled)
+
 - **Reporting**  
-  - Generate reports on appointments, doctors, and department activity  
-  - Export data summaries for analysis using **QuestPDF** for high-quality PDF generation  
+  - Generate analysis reports using **QuestPDF** for high-quality PDF generation
 
 - **Authentication & Authorization**  
   - Secure endpoints with JWT authentication  
